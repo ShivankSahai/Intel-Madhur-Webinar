@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336130092088",
+    "firebase_url": "https://intelaiopenvino.firebaseio.com",
+    "project_id": "intelaiopenvino",
+    "storage_bucket": "intelaiopenvino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336130092088:android:bfb5dc393e68566ece8acd",
+        "android_client_info": {
+          "package_name": "com.example.homegaurdian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336130092088-9ti17pfvipqli10m56ip94ilgtq19c9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homegaurdian",
+            "certificate_hash": "88a272d39cc913a0c2a9232354adfaf3a3c60af1"
+          }
+        },
+        {
+          "client_id": "336130092088-7tmr80dmgdap8ecadu0n6ogtftusfp08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIveA1RbszFpqkz1xC8gNzeE3ZJM-qL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336130092088-7tmr80dmgdap8ecadu0n6ogtftusfp08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
